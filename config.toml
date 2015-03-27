@@ -1,0 +1,12 @@
+baseurl = "http://swortain.wang/"
+languageCode = "en-us"
+title = "剑山的个人主页"
+theme = "hugo-swortain"
+
+
+[Params]
+  AuthorName = "swortain"
+  email = "jianshan_54@126.com"
+  description = "你好，我是剑山，这是我的个人网站，欢迎"
+  cover = "/images/background-cover.jpeg"
+  cv = "/about"

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>剑山的个人主页</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 剑山的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2015 03:46:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 12 Mar 2015 03:46:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;p&gt;我叫剑山，真名王建伟，91年，内蒙人。
+目前主要的工作在北京运营一个创客类的创业团队，有什么想要和我交流的随时和我联系吧！&lt;/p&gt;
+
+&lt;h2 id=&#34;技能:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;技能&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arduino&lt;/li&gt;
+&lt;li&gt;电子电路知识&lt;/li&gt;
+&lt;li&gt;基本3D建模&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;联系方式:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;联系方式&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;邮箱： jianshan_54@126.com&lt;/li&gt;
+&lt;li&gt;电话： 18611321574&lt;/li&gt;
+&lt;li&gt;微信： swortain&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://localhost:1313/post/helloworld/</link>
+      <pubDate>Wed, 11 Mar 2015 21:36:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/helloworld/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headline:b0550240c0a1b7c12779ff8220a94c0f&#34;&gt;A headline&lt;/h2&gt;
+
+&lt;p&gt;Some Content
+中文测试
+果然很难看。。。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
